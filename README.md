@@ -1,10 +1,10 @@
-![Step1-2](https://github.com/user-attachments/assets/6cb39b79-c55a-46e6-9926-bc0b83188e1d)
-![Step3-4](https://github.com/user-attachments/assets/e69e9cec-c607-4bd4-9d87-1e476d5094a7)
-![Step5](https://github.com/user-attachments/assets/e2a9f235-b7f1-4421-a888-39459ebceece)
-![Step6 7 8](https://github.com/user-attachments/assets/216a6dd6-9c32-44e6-bf55-cac0a109c9b4)
+![Uploading Step1-.jpeg…]()
 
+![Step3-](https://github.com/user-attachments/assets/37f74637-761a-482d-b065-6a03d35b1959)
 
+![Step](https://github.com/user-attachments/assets/61337ca1-e515-46f2-90d3-773f28b86af8)
 
+![Step67](https://github.com/user-attachments/assets/f166eca5-16f5-42a4-99be-c7b2f2d68463)
 
 # Auto Bill Generator
 
