@@ -1,3 +1,11 @@
+![Step1-2](https://github.com/user-attachments/assets/6cb39b79-c55a-46e6-9926-bc0b83188e1d)
+![Step3-4](https://github.com/user-attachments/assets/e69e9cec-c607-4bd4-9d87-1e476d5094a7)
+![Step5](https://github.com/user-attachments/assets/e2a9f235-b7f1-4421-a888-39459ebceece)
+![Step6 7 8](https://github.com/user-attachments/assets/216a6dd6-9c32-44e6-bf55-cac0a109c9b4)
+
+
+
+
 # Auto Bill Generator
 
 # Table of Contents
